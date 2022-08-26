@@ -1,0 +1,33 @@
+#integracao2 {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#integracao3 {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tabuleiro {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vermelha {
+    color: lightcoral;
+}
+
+.azul {
+    color: lightblue;
+}
+
+.branca {
+color: #FFF;
+background-color: lightgray;
+}
